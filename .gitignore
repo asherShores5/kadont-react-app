@@ -1,0 +1,74 @@
+# Logs
+logs
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Compiled output
+/build
+/dist
+*.class
+*.war
+*.ear
+*.jar
+*.zip
+*.tar.gz
+*.rar
+
+# Dependence caches
+.cache
+.pnp
+.npm
+# Babel transpiled output
+lib/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Mac files
+.DS_Store
+
+# Tests
+/coverage
+
+# Jest cache
+.jest
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Build scripts
+build/
+
+# Production build
+dist/
+
+# Dependency directory
+bin/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Misc
+*.gz
+*.zip
